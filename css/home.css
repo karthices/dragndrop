@@ -1,0 +1,28 @@
+
+  /* .draggable {
+    float: left;
+} */
+  #builderrow{
+      margin:0 auto;
+      margin: 20px;
+
+  }
+
+  #formfields{
+      min-height:400px;
+      border: 1px solid gray;
+      border-radius: 3px;
+  }
+
+  #mybuilder{
+      min-height: 400px;
+      background-color: rgb(206, 202, 197);
+      border: 1px solid gray;
+      border-radius: 3px;
+  }
+
+  #mybuilder .controls{
+      position: relative;
+      top:10px;
+      right:10px;
+  }
